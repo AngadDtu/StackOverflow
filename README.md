@@ -18,4 +18,4 @@ XML,JAVA
 Android Studio
 
 ![rsz_2](https://cloud.githubusercontent.com/assets/16436289/14815741/c0b1872a-0bca-11e6-9929-24dbb53ab534.png)
-
+![rsz_3](https://cloud.githubusercontent.com/assets/16436289/14815794/08a84d84-0bcb-11e6-9a20-38f5a56d6d6a.png)
